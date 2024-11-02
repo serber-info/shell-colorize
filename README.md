@@ -3,7 +3,7 @@
 
 [![PyPI version](https://badge.fury.io/py/shellcolorize.svg)](https://badge.fury.io/py/shellcolorize)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/serber-info/shellcolorize?style=social)](https://github.com/serber-info/shellcolorize/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/serber-info/shell-colorize?style=social)](https://github.com/serber-info/shell-colorize/stargazers)
 
 **`shellcolorize`** is a lightweight Python library for adding color to terminal text using ANSI color codes. This library makes it easy to style your command-line output with vibrant colors and backgrounds, perfect for enhancing readability and making CLI applications more visually appealing.
 
