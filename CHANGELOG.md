@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.1
+
+### Changed
+- Project metadata: author and project links now point to github.com/serber-info.
+- No functional changes.
+
 ## 1.1.0
 
 - New `supports_color()` public helper: honours `NO_COLOR`, `FORCE_COLOR` and TTY detection.
